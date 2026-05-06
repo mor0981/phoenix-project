@@ -1,10 +1,10 @@
 # Phoenix Project
 
-A RESTful backend API for a marketplace, built as a modular monolith where users can buy and sell products..
-**As a Seller** you can list products for sale, manage your listings, and update or remove them at any time.
-**As a Buyer** you can browse available products, search by name, category or price, and purchase items from other sellers.
-**As an Admin** you can manage users, block accounts, change roles, remove problematic products, and view system statistics.
-The system prevents buying your own products, double purchases, and unauthorized modifications to other users' listings.
+A RESTful backend API for a marketplace, built as a modular monolith where users can buy and sell products..<br>
+**As a Seller** you can list products for sale, manage your listings, and update or remove them at any time.<br>
+**As a Buyer** you can browse available products, search by name, category or price, and purchase items from other sellers.<br>
+**As an Admin** you can manage users, block accounts, change roles, remove problematic products, and view system statistics.<br>
+The system prevents buying your own products, double purchases, and unauthorized modifications to other users' listings.<br>
 
 ## Tech Stack
 
