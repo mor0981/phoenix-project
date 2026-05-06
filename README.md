@@ -32,7 +32,7 @@ The system prevents buying your own products, double purchases, and unauthorized
 
 ## Postman Collection
 
-[Download Postman Collection](docs/postman/trading-system.postman_collection.json)
+[Download Postman Collection](docs/postman/PhoenixProject.postman_collection.json)
 
 ## ERD
 
