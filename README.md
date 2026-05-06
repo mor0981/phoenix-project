@@ -30,6 +30,10 @@ The system prevents buying your own products, double purchases, and unauthorized
 | Dani Cohen | dani@test.com | USER (seller) |
 | Tomer Adar | tomer@test.com | USER (buyer) |
 
+## Postman Collection
+
+[Download Postman Collection](docs/postman/trading-system.postman_collection.json)
+
 ## ERD
 
 ![ERD](docs/erd.png)
